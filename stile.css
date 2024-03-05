@@ -2,3 +2,21 @@
     margin: 0%;
     padding: 0%;
 }
+header{
+    background-color: rgb(126, 124, 130);
+    
+}
+main{
+    border-radius: 5px;
+    background-color:  rgb(126, 124, 130);
+    margin-top: 7%;
+    margin-bottom: 10%;
+    margin-right: 25%;
+    margin-left: 25%;
+}
+span{
+    font-size:25dvh;
+}
+button{
+border-radius: 5px;
+}
