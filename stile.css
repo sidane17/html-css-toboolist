@@ -35,7 +35,7 @@ main{
 .button{
     
     border: none;
-    padding: 1.4%;
+    padding: 1%;
     color: aliceblue;
     margin-left: 1%;
     border-radius: 5px;
@@ -47,7 +47,7 @@ main{
     background-color: rgb(89, 127, 233);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 0.7%;
+    padding: 0.5%;
 }
 .blocco_q{
     color: aliceblue;
@@ -55,7 +55,7 @@ main{
     background-color: rgb(130, 41, 172);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 0.7%;
+    padding: 0.5%;
 }
 .blocco_r{
     color: aliceblue;
@@ -63,7 +63,7 @@ main{
     background-color: rgb(49, 206, 114);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 0.7%;
+    padding: 0.5%;
 }
 .blocco_m{
     color: aliceblue;
@@ -71,7 +71,7 @@ main{
     background-color: rgb(222, 147, 55);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 0.7%;
+    padding:0.5%;
 }
 .blocco_w{
     color: aliceblue;
@@ -79,7 +79,7 @@ main{
     background-color: rgb(219, 67, 171);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 0.7%;
+    padding: 0.5%;
 }
 .blocco_s{
     color: aliceblue;
@@ -87,7 +87,7 @@ main{
     background-color: rgb(164, 231, 30);
     border-radius: 9px;
     margin-left: 1%;
-    padding: 1%;
+    padding: 0.5%;
 }
 .container{
     padding:5%;
